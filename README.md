@@ -11,7 +11,7 @@
 </ul>
 
 ## Front End
-<h3>Vue JS ([main](https://github.com/s-abinash/Edunix/tree/main)) </h3>
+<h3>Vue JS ([main](https://github.com/ceasermikes002/Edunix)) </h3>
 ```
 npm install
 ```
