@@ -32,7 +32,7 @@ npm run lint
 ```
 
 ## Back End
-<h3>Express ([node](https://github.com/s-abinash/Edunix/tree/node)) </h3>
+<h3>Express ([node](https://github.com/ceasermikes002/Edunix)) </h3>
 ```
 npm install
 ```
